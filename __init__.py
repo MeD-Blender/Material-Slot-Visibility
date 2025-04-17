@@ -2,6 +2,7 @@ bl_info = {
     "name": "Material Slot Visibility",
     "author": "MeD ChatGPT",
     "version": (1, 0),
+    "blender": (2, 80, 0),
     "location": "Properties > Material",
     "description": "Allows controlling and animating viewport/render visibility per material slot",
     "category": "Material",
