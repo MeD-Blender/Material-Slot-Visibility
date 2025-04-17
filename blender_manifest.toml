@@ -1,12 +1,12 @@
 schema_version = "1.0.0"
-id = "mat_slot_visibility"
+id = "Material_slot_visibility"
 version = "1.0.0"
-name = "Mat Slot Visibility"
-tagline = "Allows controlling and animating viewport/render visibility per material slot"
+name = "Material Slot Visibility"
+tagline = "viewport/render visibility"
 maintainer = "MeD"
 type = "add-on"
-website = "https://ton-site-web.com"  # Remplace par le lien vers ton site, si applicable
+website = "https://github.com/MeD-Blender/Material-Slot-Visibility" 
 tags = ["Material"]
-blender_version_min = "3.0.0"
+blender_version_min = "4.2.0"
 license = ["SPDX:GPL-3.0-or-later"]
 copyright = ["2025 MeD"]
