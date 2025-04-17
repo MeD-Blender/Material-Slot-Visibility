@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+id = "mat_slot_visibility"
+version = "1.0.0"
+name = "Mat Slot Visibility"
+tagline = "Allows controlling and animating viewport/render visibility per material slot"
+maintainer = "MeD"
+type = "add-on"
+website = "https://ton-site-web.com"  # Remplace par le lien vers ton site, si applicable
+tags = ["Material"]
+blender_version_min = "3.0.0"
+license = ["SPDX:GPL-3.0-or-later"]
+copyright = ["2025 MeD"]
